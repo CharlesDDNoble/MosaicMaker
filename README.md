@@ -4,11 +4,11 @@ Inspired by the work of [Daniel Shiffman](https://shiffman.net/). Written in Pro
 
 ### Example
 
-*Original* \n\n
+*Original*    
 ![This is the source image to make into mosiac!](./batman-thumb.jpg)
 
-*Tile Image* \n\n
+*Tile Image*    
 ![This is the image that will be made into tiles for the mosaic!](./pepe2.jpg)
 
-*Mosaic* \n\n
+*Mosaic*    
 ![This is the source image composed of colored tiles of the tile image!](./mosaic.png)
