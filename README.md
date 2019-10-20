@@ -5,7 +5,7 @@ Inspired by the work of [Daniel Shiffman](https://shiffman.net/). Written in Pro
 ### Example
 
 *Original*
-![This is the source image to make into mosiac!](./batman-thumbs.jpg)
+![This is the source image to make into mosiac!](./batman-thumb.jpg)
 
 *Tile Image*
 ![This is the image that will be made into tiles for the mosaic!](./pepe2.jpg)
