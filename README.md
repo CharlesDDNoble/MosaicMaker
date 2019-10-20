@@ -4,4 +4,11 @@ Inspired by the work of [Daniel Shiffman](https://shiffman.net/). Written in Pro
 
 ### Example
 
-![Example 1](./example_1.gif)
+*Original*
+![This is the source image to make into mosiac!](./batman-thumbs.jpg)
+
+*Tile Image*
+![This is the image that will be made into tiles for the mosaic!](./pepe2.jpg)
+
+*Mosaic*
+![This is the source image composed of colored tiles of the tile image!](./mosaic.png)
