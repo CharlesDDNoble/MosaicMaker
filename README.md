@@ -2,13 +2,13 @@
 A neat program that takes two images, creates a set of tiles of the first, then generates a mosiac of the second using said tiles.
 Inspired by the work of [Daniel Shiffman](https://shiffman.net/). Written in Processing.
 
-### Example
+# Example
 
-#### Original    
+## Original    
 ![This is the source image to make into mosiac!](./batman-thumb.jpg)
 
-#### Tile Image    
+## Tile Image    
 ![This is the image that will be made into tiles for the mosaic!](./pepe2.jpg)
 
-#### Mosaic
+## Mosaic
 ![This is the source image composed of colored tiles of the tile image!](./mosaic.png)
