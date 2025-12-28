@@ -1,9 +1,9 @@
-public class MosaicMaker {
+public class Maker {
   private PImage baseImage;
   private int tileScale;
   private Tile[] tiles;
 
-  public MosaicMaker(PImage baseImage, int tileScale) {
+  public Maker(PImage baseImage, int tileScale) {
     this.baseImage = baseImage;
     this.tileScale = tileScale;
     this.tiles = null;

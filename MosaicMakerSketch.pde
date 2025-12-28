@@ -4,8 +4,8 @@
 //  - saving palettes instead of erasing and recreating
 //  - looping - creating and saving multiple images at a time
 
-String image1 = ".\\batman-thumb.jpg";
-String image2 = ".\\pepe2.jpg";
+String image1 = ".\\image\\photo.jpg";
+String image2 = ".\\image\\rose.jpg";
 int mosTileScale = 16;
 int mosScale = 1;
 int threshold = 50;
@@ -15,7 +15,7 @@ boolean makePalette = true;
 PImage baseImg;
 PImage tileImg;
 PGraphics mos;
-MosaicMaker mosMaker;
+Maker mosMaker;
 ImageProcessor proc;
 
 
@@ -43,7 +43,7 @@ void setup() {
   }
 
   //create the mosaic maker and load in the Tiles into its Tile[]
-  mosMaker = new MosaicMaker(baseImg, mosTileScale);
+  mosMaker = new Maker(baseImg, mosTileScale);
   mosMaker.loadTiles(true);
 }
 
